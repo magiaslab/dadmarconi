@@ -37,7 +37,7 @@ layout: body
           {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
           {% if excerpt_is_not_empty %}
           <p class="post-excerpt">{{ post.excerpt }}</p>
-          <p class="read-more"><a href="{{ post.url | relative_url }}" class="read-more-link">Read More <span class="icon-arrow-right" aria-hidden="true"></span></a></p>
+          <p class="read-more"><a href="{{ post.url | relative_url }}" class="read-more-link">Leggi tutto <span class="icon-arrow-right" aria-hidden="true"></span></a></p>
           {% endif %}
         </article><!-- .post -->
         {% endfor %}
