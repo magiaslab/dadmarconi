@@ -4,11 +4,10 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    title: Hero Section
+    title: DaD Marconi
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Supporto alla Didattica a Distanza per alunne, alunni e docenti dell'Istituto Marconi Campiglia Marittima
     actions:
       - label: Get Started
         url: docs/index.html
