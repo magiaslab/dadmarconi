@@ -1,6 +1,6 @@
 root_folder: /docs/
 sections:
-  - about
+  - Introduzione
   - getting-started
   - ui-components
   - manage-content
