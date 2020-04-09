@@ -1,8 +1,7 @@
 ---
-title: About
+title: Introduzione
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+ Guide per i docenti sulla configurazione ed utilizzo di Gsuite per gli alunni dell'Istituto Marconi
 layout: docs
 ---
 
