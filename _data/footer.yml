@@ -1,6 +1,6 @@
 content: '&copy; Alessandro Cipriani | <a href="https://magiaslab.com">Magiaslab.com</a>'
 links:
-  - text: Made whit <i class="fas fa-heart"></i> by Magiaslab
+  - text: Made whit "fa-heart" by Magiaslab
     url: 'https://www.stackbit.com'
     new_window: true
 has_social: true
