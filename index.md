@@ -22,12 +22,11 @@ sections:
         actions:
           - label: Vai alle guide
             url: docs/index.html
-      - title: Blog
+      - title: Notizie e Risorse
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Notizie e risorse utili per la DaD dell'Istituto Marconi, alunni e docenti qui troveranno spunti e strumenti utili ad una didattica migliore e più semplice
         actions:
-          - label: View Posts
+          - label: Vedi tutto
             url: blog/index.html
       - title: Style Guides
         content: >-
