@@ -40,11 +40,9 @@ sections:
     component: content_block.html
     type: contentblock
     image: images/g-suite-education.svg
-    title: A Section With An Image
+    title: Abbiamo scelto il meglio
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Gsuite for Education è la piattaforma scelta dall'Istituto Marconi per implementare la didattica a distanza durante e dopo l'emergenza del Covid-19, questo sito guida docenti, studenti e genitori nella corretta implementazione e fruizione della piattaforma
     actions:
       - label: View Demo
         url: /docs/getting-started/index.html
