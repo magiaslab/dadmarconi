@@ -39,7 +39,7 @@ sections:
   - section_id: text-img
     component: content_block.html
     type: contentblock
-    image: images/10.jpg
+    image: images/g-suite-education.svg
     title: A Section With An Image
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
