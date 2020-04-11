@@ -1,6 +1,6 @@
 ---
-title: Blog
-subtitle: This is an optional subtitle for the blog page
+title: New e Risorse
+subtitle: Le news e le risorse utili per la DaD
 img_path: images/5.jpg
 menus:
   main:
