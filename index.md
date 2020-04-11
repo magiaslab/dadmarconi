@@ -9,19 +9,18 @@ sections:
     content: >-
       Supporto alla Didattica a Distanza per alunne, alunni e docenti dell'Istituto Marconi Campiglia Marittima
     actions:
-      - label: Get Started
+      - label: Vai alle guide
         url: docs/index.html
   - section_id: features
     component: features_block.html
     type: featuresblock
     featureslist:
-      - title: Documentation
+      - title: Guide e Tutorial
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Accesso, registrazione e documenti utili per accedere alla DaD
+          senza problemi e sfruttandone tutte le opportunità
         actions:
-          - label: Get Started
+          - label: Vai alle guide
             url: docs/index.html
       - title: Blog
         content: >-
