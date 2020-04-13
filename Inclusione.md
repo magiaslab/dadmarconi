@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Inclusione
 subtitle: The style guide provides you with a blueprint of default post and page styles.
 img_path: images/5.jpg
 menus:
