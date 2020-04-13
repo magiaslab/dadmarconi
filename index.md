@@ -87,6 +87,16 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/installation.html
+  - section_id: text-no-img
+    component: content_block.html
+    type: contentblock
+    title: A Section Without Image
+    content: >-
+      [![Netlify Status](https://api.netlify.com/api/v1/badges/bf2e3b69-27f8-4fc8-b367-f7e2048bdfe3/deploy-status)](https://app.netlify.com/sites/dadmarconi-f8bfb/deploys)
+    actions:
+      - label: Get Started
+        url: /docs/getting-started/installation.html
+menus:
 menus:
   main:
     weight: 1
