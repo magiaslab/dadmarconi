@@ -80,7 +80,7 @@ sections:
       Sei un docente? o un alunno?? vuoi suggerire argomenti, tutorial o guide sulla didattica? sei nel posto giusto, clicca qui sotto e scrivici tutto!!
     actions:
       - label: Suggerisci
-        url: /docs/suggerisci materiali/index.md
+        url: /docs/suggerisci materiali
   - section_id: text-no-img
     component: content_block.html
     type: contentblock
