@@ -35,5 +35,3 @@ Compila il form per inviare al Team Digitale un contenuto o un tutorial che riti
   <p>
     <button type="submit">Invia</button>
   </p>
-
-</form>
