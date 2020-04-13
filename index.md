@@ -42,50 +42,44 @@ sections:
     content: >-
       Gsuite for Education è la piattaforma scelta dall'Istituto Marconi per implementare la didattica a distanza durante e dopo l'emergenza del Covid-19, questo sito guida docenti, studenti e genitori nella corretta implementazione e fruizione della piattaforma
     actions:
-      - label: View Demo
+      - label: Come funziona
         url: /docs/getting-started/index.html
-      - label: Get Started
+      - label: Guide e risorse
         url: /docs/getting-started/index.html
   - section_id: features-two-col
     component: features_block.html
     type: featuresblock
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    title: Quale utente sei?
+    subtitle: Sei un alunno o un genitore o un docente
     featureslist:
-      - title: Overview
+      - title: Alunni e Genitori
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Come funziona la piattaforma, come si accede, dove si trovano guide e risorse
         actions:
-          - label: Learn More
+          - label: Leggi tutto
             url: /overview.html
-      - title: Showcase
+      - title: Docenti e personale
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+         Risorse sulla piattaforma e come si utilizza. Guide e materiali per la creazione di lezioni in DaD
         actions:
-          - label: Learn More
+          - label: Leggi tutto
             url: /showcase.html
   - section_id: cta
     component: cta_block.html
     type: ctablock
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Hai bisogno di aiuto??
+    subtitle: Non preoccuparti abbiamo pensato anche a chi ha particolari problemi, tecnici o di connessione, clicca sull'icona in basso per aprire la chat
     actions:
-      - label: Get Started
+      - label: Chiedi aiuto!!
         url: /docs/getting-started/installation.html
   - section_id: text-no-img
     component: content_block.html
     type: contentblock
-    title: A Section Without Image
+    title: Suggerisci materiali e tutorial
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Sei un docente? o un alunno?? vuoi suggerire argomenti, tutorial o guide sulla didattica? sei nel posto giusto, clicca qui sotto e scrivici tutto!!
     actions:
-      - label: Get Started
+      - label: Suggerisci
         url: /docs/getting-started/installation.html
   - section_id: text-no-img
     component: content_block.html
