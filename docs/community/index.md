@@ -1,14 +1,14 @@
 ---
-title: Where To Get Support
+title: Come avere supporto
 excerpt: >-
-  We'd love it if you participate in the Libris community. Find out how to get
-  connected.
+  Come ricevere supporto in caso di problemi tecnici
 layout: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  <strong>Nota:</strong> 
+  Questa sezione ti indica come avere supporto in caso di problemi tecnici sugli accessi o sull'utilizzo della piattaforma. Ogni domanda riguardante i contenuti devono essere rivolte direttamente al docente di riferimento in quanto l'assistenza tecnica non ha modo di accedere o visualizzare i contenuti delle classi virtuali o altri contenuti<br>
+  <strong>Getting Started</strong> section.
 </div>
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Donec ut nulla laoreet, finibus purus sit amet, ullamcorper felis. Aliquam sagittis consectetur ullamcorper. Ut dapibus ex a nibh euismod tincidunt. Vestibulum quam velit, placerat vel ipsum eget, vulputate aliquet nibh. Cras hendrerit, justo a sagittis pharetra, ante elit imperdiet quam, eget euismod mauris lacus at eros. Sed et est interdum leo ultricies feugiat non non est. Aenean sit amet sollicitudin tellus, at pellentesque massa. Vestibulum dapibus magna quis dui ultrices vestibulum.
