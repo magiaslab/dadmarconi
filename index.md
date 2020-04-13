@@ -28,13 +28,11 @@ sections:
         actions:
           - label: Vedi tutto
             url: blog/index.html
-      - title: Style Guides
+      - title: Inclusione e Sostegno
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Materiali dedicati agli alunni con bisogni speciali o ai docenti di sostegno per la preparazione e la partecipazione alla didattica a distanza
         actions:
-          - label: Learn More
+          - label: Vedi tutto
             url: /style-guide.html
   - section_id: text-img
     component: content_block.html
