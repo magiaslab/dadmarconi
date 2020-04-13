@@ -2,8 +2,8 @@ root_folder: /docs/
 sections:
   - Introduzione
   - Alunni
-  - ui-components
-  - Suggerisci Materiali
+  - Faq
+  - suggerisci materiali
   - tools
-  - faq
-  - Supporto
+  - ui-components
+  
