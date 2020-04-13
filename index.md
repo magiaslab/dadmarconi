@@ -33,7 +33,7 @@ sections:
           Materiali dedicati agli alunni con bisogni speciali o ai docenti di sostegno per la preparazione e la partecipazione alla didattica a distanza
         actions:
           - label: Vedi tutto
-            url: /style-guide.html
+            url: /Inclusione.md
   - section_id: text-img
     component: content_block.html
     type: contentblock
