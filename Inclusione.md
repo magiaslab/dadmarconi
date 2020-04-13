@@ -5,7 +5,7 @@ img_path: images/5.jpg
 menus:
   main:
     weight: 4
-    title: Style Guide
+    title: Inclusione
 layout: page
 ---
 

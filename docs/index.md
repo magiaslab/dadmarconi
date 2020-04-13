@@ -3,7 +3,7 @@ title: Support DAD Marconi
 menus:
   main:
     weight: 2
-    title: Docs
+    title: Guide e Tutorial
 layout: docs
 ---
 
