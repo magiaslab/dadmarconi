@@ -14,24 +14,26 @@ layout: docs
 
 Compila il form per inviare al Team Digitale un contenuto o un tutorial che ritieni possa essere utile alla comunità scolastica. Se veramente ineteressante sarà messo a disposizione di tutti
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="materiali" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Il tuo nome: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>La tua mail: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+    <label>Tipo di materiale suggerito <select name="role[]" multiple>
+      <option value="leader">Tutorial</option>
+      <option value="follower">Link a risorsa</option>
+      <option value="follower">Varie</option>
     </select></label>
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <p> <label>Carica un file: </label><input type="file" id="myfile" name="myfile">
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">Invia</button>
   </p>
 </form>
 
