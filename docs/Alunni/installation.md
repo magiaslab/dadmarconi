@@ -1,12 +1,12 @@
 ---
-title: Installation
+title: Primo accesso
 weight: 1
 layout: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  <strong>Nota:</strong> 
+  La piattaforma Gsuite contirnr tutti gli strumenti necessari per creare, leggere tutti i compiti o gli elaborati che vuoi o devi creare per i compiti o per gli esami. Non c'è bisogno di installare software aggiuntivi e puoi creare e partecipare direttamente da smartphone (anche se è scomodo) da tablet o da PC <strong>Sei pronto??</strong> iniziamo??
 </div>
 
 ## Callouts
