@@ -7,7 +7,7 @@ layout: docs
 
 <div class="note">
   <strong>Nota:</strong> Sei un docente? o un alunno?? vuoi suggerire argomenti, tutorial o guide sulla didattica? sei nel posto giusto, clicca qui sotto e scrivici tutto!!<br>
-  <strong>Compila il form qui sotto</strong> section.
+  <strong>Compila il form qui sotto</strong>
 </div>
 
 ### Suggerisci contenuti
@@ -33,5 +33,5 @@ Compila il form per inviare al Team Digitale un contenuto o un tutorial che riti
   </p>
   <p> <label>Carica un file: </label><input type="file" id="myfile" name="myfile">
   <p>
-    <button type="submit">Invia</button>
+    <button type="submit">Invia <i class="far fa-share-square"></i></button>
   </p>
