@@ -33,5 +33,5 @@ Compila il form per inviare al Team Digitale un contenuto o un tutorial che riti
   </p>
   <p> <label>Carica un file: </label><input type="file" id="myfile" name="myfile">
   <p>
-    <button type="submit">Invia <span class="<i class="fas fa-angle-right"></i>"></span></button>
+    <button type="submit">Invia <span class="fas fa-angle-right"></span></button>
   </p>
