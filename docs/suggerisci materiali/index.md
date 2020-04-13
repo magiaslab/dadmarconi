@@ -1,0 +1,46 @@
+---
+title: Suggerisci materiali
+excerpt: >-
+  Da qui è possibile suggerire materiali o tutorial da pubblicare nel sito per la DaD
+layout: docs
+---
+
+<div class="note">
+  <strong>Nota:</strong> Sei un docente? o un alunno?? vuoi suggerire argomenti, tutorial o guide sulla didattica? sei nel posto giusto, clicca qui sotto e scrivici tutto!!<br>
+  <strong>Compila il form qui sotto</strong> section.
+</div>
+
+### Suggerisci contenuti
+
+Compila il form per inviare al Team Digitale un contenuto o un tutorial che ritieni possa essere utile alla comunità scolastica. Se veramente ineteressante sarà messo a disposizione di tutti
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
+
+## Tables
+
+You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
+
+| Title | Title |
+| ------| ----- |
+| Text  | Text  |
+| Text  | Text  |
