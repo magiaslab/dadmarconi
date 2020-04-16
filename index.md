@@ -45,7 +45,7 @@ sections:
       - label: Perchè l'abbiamo scelto
         url: /scelta.html
       - label: Guide e risorse
-        url: /docs/getting-started/index.html
+        url: /docs/index.html
   - section_id: features-two-col
     component: features_block.html
     type: featuresblock
