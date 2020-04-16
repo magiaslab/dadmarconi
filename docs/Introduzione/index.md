@@ -15,14 +15,17 @@ Questa guida ti illustra come utilizzarli ma vediamo insieme quali sono i princi
 
 Le applicazioni di uso comune sono:
 
-![gmail](/images/gmail-128.png)
+![gmail](/images/gmail-128.png)<br>
 Gmail per la gestione della posta elettronica
 
-![Calendar](/images/calendar-128.png)
+![Calendar](/images/calendar-128.png)<br>
 Calendario per gestire gli impegni e le lezioni o i compiti
 
-![gmail](/images/drive-128.png)
+![gmail](/images/drive-128.png)<br>
 GDrive spazio per salvare i documenti sempre online e disponibile
 
-![gmail](/images/docs_48dp.png)
+![gmail](/images/Docs.png)<br>
 Docs software per la scrittura online
+
+![gmail](/images/Sheets.png)<br>
+Sheets foglio di calcolo online
