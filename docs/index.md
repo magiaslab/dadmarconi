@@ -7,14 +7,12 @@ menus:
 layout: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Qui è possibile trovare le guide per l'attivazione e l'utilizzo della piattaforma didattica Gsuite Educational in uso presso l'Istituto Marconi.
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+Le guide ed i tutorial sono disponibili per alunne e alunni, docenti e personale scolastico e sono strutturati in modo da fornire chiare indicazioni per utilizzare appieno ed in maniera semplice tutte le app comprese nella piattaforma da ogni device.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+I tutorial infatti spiegano come configurare, accedere e utilizzare la piattaforma da ogni tipo di smartphone, tablet o pc. Le varie sezioni sono suddivise per tipologia di utente in modo che ognuno possa facilmente trovare le guide a lui dedicate.
 
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+Per casi particolari e problemi tecnici è possibile usufruire della chat di assistenza posta in basso a destra di tutte le pagine del sito.
