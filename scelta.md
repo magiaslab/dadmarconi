@@ -4,7 +4,7 @@ subtitle: Scelta e motivazione sull'adozione della nuova piattaforma DaD
 img_path: images/5.jpg
 menus:
   main:
-    weight: 5
+    weight: 2
     title: Motivazioni
 layout: page
 ---
