@@ -86,7 +86,8 @@ sections:
     type: contentblock
     title:
     content: >-
-      Sito mantenuto da [![Netlify Status](https://api.netlify.com/api/v1/badges/bf2e3b69-27f8-4fc8-b367-f7e2048bdfe3/deploy-status)](https://app.netlify.com/sites/dadmarconi-f8bfb/deploys)
+      Sito mantenuto da
+      [![Netlify Status](https://api.netlify.com/api/v1/badges/bf2e3b69-27f8-4fc8-b367-f7e2048bdfe3/deploy-status)](https://app.netlify.com/sites/dadmarconi-f8bfb/deploys)
 menus:
 menus:
   main:
