@@ -42,3 +42,6 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+
+  # Google services
+google_analytics: UA-163780660-1
