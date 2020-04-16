@@ -3,7 +3,7 @@ main:
     title: Sample Layouts
     url: '#'
     weight: 5
-  - identifier: Contatti
-    title: GitHub
-    url: 'https://github.com/'
-    weight: 6
+  - identifier: 
+    title: 
+    url: '#'
+    weight: 8
