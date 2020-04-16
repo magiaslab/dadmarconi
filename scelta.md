@@ -1,6 +1,6 @@
 ---
-title: Inclusione
-subtitle: Come abbiamo considerato gli aseptti dell'inclusione nel progettare la DaD
+title: Perchè abbiamo deciso di cambiare
+subtitle: Scelta e motivazione sull'adozione della nuova piattaforma DaD
 img_path: images/5.jpg
 menus:
   main:
