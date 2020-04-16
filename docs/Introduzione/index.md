@@ -5,8 +5,14 @@ excerpt: >-
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+![copertina](/images/g-suite-education.svg)
+
+La piattaforma Gsuite Educational di Google comprende una serie di applicazioni, molte delle quali comuni ad un normale account gmail, che permettono di collaborare a distanza in diversi modi comunicando con colleghi e compagni e realizzando documenti e contenuti utili alla didattica a distanza
+
+Questa guida ti illustra come utilizzarli ma vediamo insieme quali sono i principali prima di passare a attivare e accedere negli account.
 
 ***
 
-Here are the articles in this section:
+Le applicazioni di uso comune sono:
+
+![gmail](/images/gmail-128.png)
