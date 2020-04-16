@@ -7,6 +7,8 @@ menus:
 layout: docs
 ---
 
+![copertina](/images/exp3.png)
+
 Qui è possibile trovare le guide per l'attivazione e l'utilizzo della piattaforma didattica Gsuite Educational in uso presso l'Istituto Marconi.
 
 ***
