@@ -11,7 +11,10 @@ layout: page
 
 ### Il perché di una scelta.
 
+![immagine scelta](/images/img1scelta.png)
+
 Attivare una piattaforma diversa da quelle che quasi tutti i docenti hanno scelto in questo periodo per continuare a fare didattica ai nostri ragazzi può a prima vista essere una scelta poco ponderata e che comporta ancora una volta sforzo e impegno per alunni, genitori e docenti. 
+
 Ce ne rendiamo conto e abbiamo valutato questo aspetto prima di intraprendere e pensare il progetto che scoprirete in queste pagine. Abbiamo però ritenuto necessario uniformare e dare degli strumenti unici, semplici e soprattutto sicuri a coloro che in questo momento devono vivere la scuola in maniera diversa da come siamo abituati. Restiamo fermamente convinti che la didattica, quella vera, sia quella tradizionale, fatta nelle aule, nelle scuole, con il contatto e con la presenza. 
 Ma la didattica quella vera, può avere degli alleati che risiedono nel mondo digitale, può aiutarla, renderla più inclusiva e affascinante, anche dopo, quando torneremo alla normalità, qualunque essa sia. Questi strumenti però devono essere uniformi, condivisi e sicuri sia per i contenuti che per l’utilizzo da parte degli alunni. Non possiamo utilizzare strumenti di dubbia natura e gestione e soprattutto scelti in maniera soggettiva che comportano ancora maggiore impegno di conoscenza e utilizzo per tutti.
 
