@@ -81,8 +81,7 @@ sections:
     actions:
       - label: Suggerisci
         url: /docs/suggerisci materiali
-
-        - section_id: text-no-img
+  - section_id: text-no-img
     component: content_block.html
     type: contentblock
     title:
