@@ -86,13 +86,6 @@ sections:
     type: contentblock
     title:
     content: >-
-      <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-        <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_nKCnOy.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
-  - section_id: text-no-img
-    component: content_block.html
-    type: contentblock
-    title:
-    content: >-
       Sito mantenuto da
       [![Netlify Status](https://api.netlify.com/api/v1/badges/bf2e3b69-27f8-4fc8-b367-f7e2048bdfe3/deploy-status)](https://app.netlify.com/sites/dadmarconi-f8bfb/deploys)
 menus:
