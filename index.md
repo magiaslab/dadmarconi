@@ -64,18 +64,16 @@ sections:
         actions:
           - label: Leggi tutto
             url: /showcase.html
-  - section_id: features-one-col
-      component: features_block.html
-      type: featuresblock
-      title: Genitori e Dad
-      subtitle: Una guida per aiutare i genitori impegnati con gli alunni nella Didattica a Distanza
-      featureslist:
-        - title: Alunni e Genitori
-          content: >-
-            Come funziona la piattaforma, come si accede, dove si trovano guide e risorse
-          actions:
-            - label: Leggi tutto
-              url: /overview.html
+  - section_id: text-img
+    component: content_block.html
+    type: contentblock
+    image: images/g-suite-education.svg
+    title: Genitori e DaD
+    content: >-
+      Una guida e un manifesto per i genitori impegnati nella DaD insieme agli alunni
+    actions:
+      - label: Scarica la guida
+        url: /scelta.html
   - section_id: cta
     component: cta_block.html
     type: ctablock
