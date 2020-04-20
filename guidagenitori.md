@@ -5,11 +5,10 @@ img_path: images/family_.png
 layout: page
 ---
 
-### Il manifesto per i genitori in DaD
-
 ![immagine scelta](/images/family_.png)
 
-
+### Il manifesto per i genitori in DaD
+s
 Le attività di didattica a distanza, come ogni attività didattica, per essere tali, prevedono la costruzione ragionata e guidata del sapere attraverso un’interazione tra docenti e alunni. Qualsiasi sia il mezzo attraverso cui la didattica si esercita, non cambiano il fine e i principi.
 Nella consapevolezza che nulla può sostituire appieno ciò che avviene, in presenza, in una classe, si tratta pur sempre di dare vita a un “ambiente di apprendimento”, per quanto inconsueto nella percezione e nell’esperienza comuni, da creare, alimentare, abitare, rimodulare di volta in volta
 (Nota Ministero dell’Istruzione n. 388 del 17 marzo 2020)
