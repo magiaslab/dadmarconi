@@ -13,7 +13,7 @@ Naviga nelle varie sezioni seguendo i tutorial proposti e se hai particolari pro
 
 *** 
 
-<div class="note">
+<div class="important">
   <strong>Nota:</strong> 
   Alcune parti sono in preparazione per quanto riguarda tutorial e contenuti ma saranno disponibili per l'attivazione della piattaforma
 </div>
