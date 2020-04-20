@@ -6,15 +6,10 @@ layout: docs
 
 <div class="note">
   <strong>Nota:</strong> 
-  I tutorial ed i materiali <strong>Sei pronto??</strong> iniziamo??
+ Qui è possibile trovari tutorial e materiali da scaricare per attivare ed utilizzare la piattaforma come Alunno
 </div>
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
-
-***
-
-Here are the articles in this section:
+Naviga nelle varie sezioni seguendo i tutorial proposti e se hai particolari problemi puoi utilizzare la chat in basso a destra o contattatre il tuo docente che ti darà pieno supporto
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YmnCXsY1TQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
