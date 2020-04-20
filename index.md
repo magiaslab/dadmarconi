@@ -67,12 +67,12 @@ sections:
   - section_id: text-img
     component: content_block.html
     type: contentblock
-    image: images/g-suite-education.svg
+    image: images/family_.png
     title: Genitori e DaD
     content: >-
       Una guida e un manifesto per i genitori impegnati nella DaD insieme agli alunni
     actions:
-      - label: Scarica la guida
+      - label: Leggi la guida
         url: /scelta.html
   - section_id: cta
     component: cta_block.html
