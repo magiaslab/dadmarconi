@@ -19,27 +19,27 @@ In questo documento intendiamo delineare , in 10 brevi punti, un vademecum utile
 
 ### VADEMECUM PER LE FAMIGLIE AI TEMPI DI DIDATTICA A DISTANZA
 
-**1) Digitale è reale.**
-Mi impegno a negoziare con mio/a figlio/a le regole condivise da tenere nelle attività di didattica a distanza (es. Non utilizzare lo smartphone per fare “altro” durante le video lezioni, non fare foto allo schermo e condividerle in altri luoghi, non condividere materiale altrui senza il consenso, il rispetto della privacy...)
-**2) Insieme davanti al pc:**
-la didattica a distanza è una didattica della vicinanza. A causa di impegni lavorativi o altro, è impossibile restare accanto mio/a figlio/a durante tutte le attività di DAD, ma è anche impensabile lasciarlo/a sempre da solo/a davanti al pc. Cerco di organizzare al meglio gli spazi e i tempi per essere presente, di negoziare quando stare insieme al pc.
-**3) Il genitore è il primo educatore:**
-se posso, cerco di mantenere o far mantenere a mio/a figlio/a un diario delle attività svolte e da svolgere. Il diario costituisce un documento utile per pianificare il percorso educativo, per ripensare e ripensarsi, uno spazio di riflessione e di ascolto, da costruire insieme al proprio figlio/a, un documento che tenga traccia del percorso di apprendimento, ben oltre una semplice annotazione delle cose fatte e da fare. Mi interesso di cosa fa ogni giorno, partecipo alla sua vita quotidiana nella DAD
-**4) Costruiamo insieme con responsabilità.**
-Non prendo iniziative personali in tema di didattica a distanza, ma mi raccordo con il dirigente scolastico, il coordinatore di classe, i docenti ed i rappresentanti dei genitori per segnalare criticità e opportunità, per migliorare, per costruire e crescere insieme.
-**5) La didattica a distanza è inclusiva:**
-durante le lezioni online faccio partecipare mio/a figlio/a in maniera attiva, anche con audio e video, nel rispetto della privacy e del giusto decoro (non a videolezioni in pigiama o mentre si mangia ad esempio, si rispettano i turni di parola e non si gioca con i comandi in piattaforma), mantenendo atteggiamenti inclusivi verso tutti i compagni di classe e verso i docenti. 
-**6) La Didattica a distanza è aggiornamento:**
-Se posso partecipo alle proposte dell’istituzione scolastica in tema di formazione e autoformazione per genitori sulle tecnologie. Se posso condividere materiali, tempo e risorse e competenze, lo faccio. 
-**7) La Didattica a distanza non è solo strumento digitale:**
+**1. Digitale è reale.**
+Mi impegno a negoziare con mio/a figlio/a le regole condivise da tenere nelle attività di didattica a distanza (es. Non utilizzare lo smartphone per fare “altro” durante le video lezioni, non fare foto allo schermo e condividerle in altri luoghi, non condividere materiale altrui senza il consenso, il rispetto della privacy...)<br>
+**2. Insieme davanti al pc:**
+la didattica a distanza è una didattica della vicinanza. A causa di impegni lavorativi o altro, è impossibile restare accanto mio/a figlio/a durante tutte le attività di DAD, ma è anche impensabile lasciarlo/a sempre da solo/a davanti al pc. Cerco di organizzare al meglio gli spazi e i tempi per essere presente, di negoziare quando stare insieme al pc.<br>
+**3. Il genitore è il primo educatore:**
+se posso, cerco di mantenere o far mantenere a mio/a figlio/a un diario delle attività svolte e da svolgere. Il diario costituisce un documento utile per pianificare il percorso educativo, per ripensare e ripensarsi, uno spazio di riflessione e di ascolto, da costruire insieme al proprio figlio/a, un documento che tenga traccia del percorso di apprendimento, ben oltre una semplice annotazione delle cose fatte e da fare. Mi interesso di cosa fa ogni giorno, partecipo alla sua vita quotidiana nella DAD<br>
+**4. Costruiamo insieme con responsabilità.**
+Non prendo iniziative personali in tema di didattica a distanza, ma mi raccordo con il dirigente scolastico, il coordinatore di classe, i docenti ed i rappresentanti dei genitori per segnalare criticità e opportunità, per migliorare, per costruire e crescere insieme.<br>
+**5. La didattica a distanza è inclusiva:**
+durante le lezioni online faccio partecipare mio/a figlio/a in maniera attiva, anche con audio e video, nel rispetto della privacy e del giusto decoro (non a videolezioni in pigiama o mentre si mangia ad esempio, si rispettano i turni di parola e non si gioca con i comandi in piattaforma), mantenendo atteggiamenti inclusivi verso tutti i compagni di classe e verso i docenti. <br>
+**6. La Didattica a distanza è aggiornamento:**
+Se posso partecipo alle proposte dell’istituzione scolastica in tema di formazione e autoformazione per genitori sulle tecnologie. Se posso condividere materiali, tempo e risorse e competenze, lo faccio. <br>
+**7. La Didattica a distanza non è solo strumento digitale:**
 la DAD non si esaurisce nell’uso in una piattaforma virtuale o in una video-lezione o nel far fare compiti a casa, ma mette in moto l’utilizzo di più tecnologie e ambienti di apprendimento.
-Dedico tempo e spazio, con i i miei figli, per attività quali: lettura di libri, lavori di scrittura creativa, manipolazione di materiali poveri, esperimenti scientifici con materiale di risulta, tempo e spazio per discussioni con mio figlio/a etc.. Ho cura che il processo di apprendimento avvenga rispettando i tempi ed i modi di mio/a figlio/a con spazi di intervalo fra un’attività e l’altra.
-**8) Rispetto e faccio rispettare i tempi di consegna e ho cura delle attività da far svolgere.**
-La Didattica a distanza, specie per i bambini dell’infanzia e della primaria, richiede una autonomia del mezzo e dello strumento digitale che i bambini non possiedono. Compatibilmente con i miei impegni, cerco di entrare o far entrare in piattaforma virtuale almeno 1 volta al giorno per controllare attività e scadenze, avendo cura di farle rispettare nei tempi e nei modi proposti. In tal senso è importante far consolidare abitudini e routine perché ciò facilita i processi di apprendimento, rassicura in un periodo di grande incertezza, dà il senso della regolarità e della sistematicità
-**9) Garantisco accessibilità e strumenti.**
-La didattica a distanza richiede non solo tempo, ma anche connessione e strumenti tecnologici performanti. Cerco di fornire ai miei figli strumenti adeguati, certo di poter contare su forme di comodato d’uso di strumenti offerti dalla Scuola.
-**10) Non sono solo.**
-So di poter contare su una Scuola comunità, fatta da docenti, dirigente scolastico, segreteria amministrativa, rappresentanti dei genitori, spazio di ascolto/psicologo, amministrazioni comunali. Sono parte integrante e costruttore di un’alleanza educativa fondamentale per mio/a filglio/a.
+Dedico tempo e spazio, con i i miei figli, per attività quali: lettura di libri, lavori di scrittura creativa, manipolazione di materiali poveri, esperimenti scientifici con materiale di risulta, tempo e spazio per discussioni con mio figlio/a etc.. Ho cura che il processo di apprendimento avvenga rispettando i tempi ed i modi di mio/a figlio/a con spazi di intervalo fra un’attività e l’altra.<br>
+**8. Rispetto e faccio rispettare i tempi di consegna e ho cura delle attività da far svolgere.**
+La Didattica a distanza, specie per i bambini dell’infanzia e della primaria, richiede una autonomia del mezzo e dello strumento digitale che i bambini non possiedono. Compatibilmente con i miei impegni, cerco di entrare o far entrare in piattaforma virtuale almeno 1 volta al giorno per controllare attività e scadenze, avendo cura di farle rispettare nei tempi e nei modi proposti. In tal senso è importante far consolidare abitudini e routine perché ciò facilita i processi di apprendimento, rassicura in un periodo di grande incertezza, dà il senso della regolarità e della sistematicità<br>
+**9. Garantisco accessibilità e strumenti.**
+La didattica a distanza richiede non solo tempo, ma anche connessione e strumenti tecnologici performanti. Cerco di fornire ai miei figli strumenti adeguati, certo di poter contare su forme di comodato d’uso di strumenti offerti dalla Scuola.<br>
+**10. Non sono solo.**
+So di poter contare su una Scuola comunità, fatta da docenti, dirigente scolastico, segreteria amministrativa, rappresentanti dei genitori, spazio di ascolto/psicologo, amministrazioni comunali. Sono parte integrante e costruttore di un’alleanza educativa fondamentale per mio/a filglio/a.<br>
 
 
 
