@@ -73,7 +73,7 @@ sections:
       Una guida e un manifesto per i genitori impegnati nella DaD insieme agli alunni
     actions:
       - label: Leggi la guida
-        url: /scelta.html
+        url: /guidagenitori.html
   - section_id: cta
     component: cta_block.html
     type: ctablock
