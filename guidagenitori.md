@@ -44,4 +44,4 @@ So di poter contare su una Scuola comunità, fatta da docenti, dirigente scolast
 
 **Documento elaborato dalla Comunità dell’IC Lozzo Atestino (PD) e dal suo Dirigente Alfonso D'ambrosio**
 
-La comunità scolsatica di Lozzo Atesino che comprende anche il Comune di Vò Euganeo è stata tra le prime colpite dall'emergenze Covid-19 e tra le prime scuole ad applicare da subito la DaD per i suoi alunni.
+La comunità scolsatica di Lozzo Atesino che comprende anche il Comune di Vò è stata tra le prime colpite dall'emergenze Covid-19 e tra le prime scuole ad applicare da subito la DaD per i suoi alunni.
