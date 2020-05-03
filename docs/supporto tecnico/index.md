@@ -2,7 +2,6 @@
 title: Come avere supporto
 excerpt: >-
   Come ricevere supporto in caso di problemi tecnici
-weight: 2
 layout: docs
 ---
 

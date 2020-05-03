@@ -34,14 +34,15 @@ sections:
         actions:
           - label: Vedi tutto
             url: /Inclusione.md
-  - section_id: cta
-    component: cta_block.html
-    type: ctablock
-    title: DIRETTA YOUTUBE GIOVEDI 7 MAGGIO
-    subtitle: Segui la diretta YouTube di presentazione della piattaforma per genitori ed alunni direttamente da qui Giovedi 7 Maggio ORE 17:30
-    actions:
-      - label: Vedi la diretta
-        url: https://youtu.be/RiTpu0sBqjs  
+  - section_id: text-img
+    component: content_block.html
+    type: contentblock
+    image: images/youtube.svg
+    title: Diretta su YouTube per alunni e genitori
+    content: >-
+      Giovedi 7 Maggio 2020 ore 17:30 presenteremo la piattaforma didattica ad alunni e genitori e daremo le prime indicazioni per l'attivazione e l'accesso
+      I link per seguire la diretta sotto 
+    actions: https://youtu.be/RiTpu0sBqjs  
   - section_id: text-img
     component: content_block.html
     type: contentblock
