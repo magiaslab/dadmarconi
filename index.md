@@ -74,7 +74,7 @@ sections:
          Risorse sulla piattaforma e come si utilizza. Guide e materiali per la creazione di lezioni in DaD
         actions:
           - label: Leggi tutto
-            url: /showcase.html
+            url: /docs/docenti.html
   - section_id: text-img
     component: content_block.html
     type: contentblock
