@@ -38,7 +38,7 @@ sections:
     component: cta_block.html
     type: ctablock
     title: DIRETTA YOUTUBE GIOVEDI 7 MAGGIO
-    subtitle: Segui la diretta YouTube di presentazione della piattaforma per genitori ed alunni direttamente da qui
+    subtitle: Segui la diretta YouTube di presentazione della piattaforma per genitori ed alunni direttamente da qui Giovedi 7 Maggio ORE 17:30
     actions:
       - label: Vedi la diretta
         url: https://youtu.be/RiTpu0sBqjs  
