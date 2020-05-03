@@ -17,15 +17,15 @@ Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è suffi
 
 Ad ogni persona della scuola è assegnato un indirizzo mail personale.<br> 
 
-Tutti gli indirizzi mail sono realizzati con questa convenzione: **cognome.nome@istituto-marconi.edu.it** in questo modo conoscendo il nome e cognome delle persone che vivono la scuola è altrettanto semplice individuare il suo indirizzo mail per poter comunicare con lui.<br>
+Tutti gli indirizzi mail sono realizzati con questa convenzione:<br> **cognome.nome@istituto-marconi.edu.it** <br> in questo modo conoscendo il nome e cognome delle persone che vivono la scuola è altrettanto semplice individuare il suo indirizzo mail per poter comunicare con loro.<br>
 
-Ogni alunno e ogni docente, cosi come la dirigente ed il personale di segreteria hanno un proprio indirizzo mail secondo questa convenzione. La lista degli utenti corrisponde a quella del registro elettronico, quindi l'indirizzo mail è formato esattamente dai nomi e dal cognome presenti nel registro. Eventuali modifiche per semplificare gli indirizzi mail sono possibili inviando una mail all'assistenza tecnica a questo indirizzo [admin@istituto-marconi.edu.it](mailto:admin@istituto-marconi.edu.it)
+Ogni alunno e ogni docente, cosi come la dirigenza ed il personale di segreteria hanno un proprio indirizzo mail secondo questa convenzione. La lista degli utenti corrisponde a quella del registro elettronico, quindi l'indirizzo mail è formato esattamente dai nomi e dal cognome presenti nel registro. Eventuali modifiche per semplificare gli indirizzi mail in caso di nomi complessi sono possibili inviando una mail all'assistenza tecnica a questo indirizzo [admin@istituto-marconi.edu.it](mailto:admin@istituto-marconi.edu.it)
 
 Gli indirizzi dei servizi non riconducibili ad una persona fisica (ad esempio la segreteria) saranno pubblicati sul sito della scuola.
 
 ## Password di primo accesso
 
-**La password per effettuare il primo accesso è il proprio CODICE FISCALE.** Il codice fiscale è stato reperito dal registro elettronico eventuali errori dovranno essere comunicati direttamente alla segreteria negli orari di apertura.
+**La password per effettuare il primo accesso è il proprio CODICE FISCALE.**<br> Il codice fiscale è stato reperito dal registro elettronico eventuali errori dovranno essere comunicati direttamente alla segreteria negli orari di apertura.
 
 Al primo accesso il sistema per sicurezza chiede di cambiare la password con una di vostra scelta e facile da ricordare. 
 
