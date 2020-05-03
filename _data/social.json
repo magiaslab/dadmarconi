@@ -7,6 +7,12 @@
             "url": "https://twitter.com/"
         },
         {
+            "type": "youtube",
+            "title": "youtube",
+            "icon": "fa-youtube",
+            "url": "https://www.instagram.com/"
+        },
+        {
             "type": "instagram",
             "title": "Instagram",
             "icon": "fa-instagram",
