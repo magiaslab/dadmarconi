@@ -68,7 +68,7 @@ sections:
           Come funziona la piattaforma, come si accede, dove si trovano guide e risorse
         actions:
           - label: Leggi tutto
-            url: /overview.html
+            url: /docs/alunni.html
       - title: Docenti e personale
         content: >-
          Risorse sulla piattaforma e come si utilizza. Guide e materiali per la creazione di lezioni in DaD
