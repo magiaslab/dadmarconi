@@ -42,7 +42,9 @@ sections:
     content: >-
       Giovedi 7 Maggio 2020 ore 17:30 presenteremo la piattaforma didattica ad alunni e genitori e daremo le prime indicazioni per l'attivazione e l'accesso
       I link per seguire la diretta sotto 
-    actions: https://youtu.be/RiTpu0sBqjs  
+    actions: 
+    - label: Segui la diretta YouTube
+      url: https://youtu.be/RiTpu0sBqjs  
   - section_id: text-img
     component: content_block.html
     type: contentblock
