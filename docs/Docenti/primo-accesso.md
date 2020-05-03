@@ -29,7 +29,7 @@ Gli indirizzi dei servizi non riconducibili ad una persona fisica (ad esempio la
 
 Al primo accesso il sistema per sicurezza chiede di cambiare la password con una di vostra scelta e facile da ricordare. 
 
-**la nuova password DEVE avere queste caratteristiche**
+### **la nuova password DEVE avere queste caratteristiche**
 
 - Almeno 8 caratteri tra lettere e numeri
 - Almeno un carattere MAIUSCOLO
