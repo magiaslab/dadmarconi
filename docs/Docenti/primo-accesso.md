@@ -11,7 +11,7 @@ layout: docs
 
 ## Dove fare il primo accesso
 
-
+Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.dad.istituto-marconi.edu.it](https://dad.istituto-marconi.edu.it)
 
 ## Indirizzi mail
 
