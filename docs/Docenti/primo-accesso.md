@@ -9,11 +9,11 @@ layout: docs
   Il browser consigliato per un utilizzo ottimale della piattaforma Gsuite è Google Chrome.
 </div>
 
-## Dove fare il primo accesso
+## 1 Dove fare il primo accesso
 
 Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.dad.istituto-marconi.edu.it](https://dad.istituto-marconi.edu.it)
 
-## Indirizzo mail
+## 2 Indirizzo mail
 
 Ad ogni persona della scuola è assegnato un indirizzo mail personale.<br> 
 
@@ -23,7 +23,7 @@ Ogni alunno e ogni docente, cosi come la dirigenza ed il personale di segreteria
 
 Gli indirizzi dei servizi non riconducibili ad una persona fisica (ad esempio la segreteria) saranno pubblicati sul sito della scuola.
 
-## Password di primo accesso
+## 3 Password di primo accesso
 
 **La password per effettuare il primo accesso è il proprio CODICE FISCALE.**<br> Il codice fiscale è stato reperito dal registro elettronico eventuali errori dovranno essere comunicati direttamente alla segreteria negli orari di apertura.
 
