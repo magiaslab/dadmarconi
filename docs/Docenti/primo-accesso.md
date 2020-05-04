@@ -11,7 +11,7 @@ layout: docs
 
 ## 1 Dove fare il primo accesso
 
-Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.dad.istituto-marconi.edu.it](http://dad.istituto-marconi.edu.it)
+Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.gsuite.istituto-marconi.edu.it](https://mail.google.com/a/istituto-marconi.it)
 
 ## 2 Indirizzo mail
 
@@ -36,3 +36,7 @@ Al primo accesso il sistema per sicurezza chiede di cambiare la password con una
 - Almeno un carattere speciale tra cui . ! @ ? ecc.
 
 Una volta cambiata la password con una vostra personale avete accesso a tutte le app della Suite
+
+
+## Tutorial video sul primo accesso
+
