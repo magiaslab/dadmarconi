@@ -11,7 +11,7 @@ layout: docs
 
 ## 1 Dove fare il primo accesso
 
-Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.gsuite.istituto-marconi.edu.it](https://mail.google.com/a/istituto-marconi.it)
+Per accedere alla piattaforma Gsuite Educational per l'Istituto Marconi è sufficente andare a questo link [www.gsuite.istituto-marconi.edu.it](https://mail.google.com/a/istituto-marconi.edu.it)
 
 ## 2 Indirizzo mail
 
