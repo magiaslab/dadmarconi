@@ -34,3 +34,5 @@ Al primo accesso il sistema per sicurezza chiede di cambiare la password con una
 - Almeno 8 caratteri tra lettere e numeri
 - Almeno un carattere MAIUSCOLO
 - Almeno un carattere speciale tra cui . ! @ ? ecc.
+
+Una volta cambiata la password con una vostra personale avete accesso a tutte le app della Suite
