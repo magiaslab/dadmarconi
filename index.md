@@ -46,8 +46,8 @@ sections:
     - label: Segui la diretta su YouTube
       url: https://youtu.be/XoBsKQwfVKk
       actions:
-          - label: Vedila dal sito
-            url: /docs/docenti.html
+          - label: Guardala direttamente dal sito
+            url: /diretta.html
   - section_id: text-img
     component: content_block.html
     type: contentblock
