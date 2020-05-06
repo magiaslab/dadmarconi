@@ -45,9 +45,9 @@ sections:
     actions: 
     - label: Segui la diretta su YouTube
       url: https://youtu.be/XoBsKQwfVKk
-      actions:
-          - label: Guardala direttamente dal sito
-            url: /diretta.html
+    actions:
+    - label: Guardala direttamente dal sito
+      url: /diretta.html
   - section_id: text-img
     component: content_block.html
     type: contentblock
