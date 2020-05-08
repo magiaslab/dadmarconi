@@ -1,5 +1,5 @@
 ---
-title: Primo Acesso
+title: Primo Accesso
 weight: 1
 layout: docs
 ---

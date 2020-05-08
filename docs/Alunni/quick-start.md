@@ -1,13 +1,9 @@
 ---
-title: Quick Start
+title: Ingresso da cellulare e tablet
 weight: 2
 layout: docs
 ---
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_qcrH07SNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="note">
-  <strong>Nota:</strong> 
-  I contenuti di questa app sono in preparazione saranno pubblicati a breve
-</div>
-
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_RkWAMt.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+<br>
