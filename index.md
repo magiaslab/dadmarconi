@@ -38,14 +38,12 @@ sections:
     component: content_block.html
     type: contentblock
     image: images/youtube.svg
-    title: Diretta su YouTube per alunni e genitori
+    title: Rivedi la diretta su YouTube per alunni e genitori
     content: >-
       Giovedi 7 Maggio 2020 ore 17:00 presenteremo la piattaforma didattica ad alunni e genitori e daremo le prime indicazioni per l'attivazione e l'accesso
       I link per seguire la diretta sotto 
     actions: 
-    - label: Segui la diretta su YouTube
-      url: https://youtu.be/XoBsKQwfVKk
-    - label: Guardala direttamente dal sito
+    - label: Guardala direttamente da qui
       url: /diretta.html
   - section_id: text-img
     component: content_block.html
