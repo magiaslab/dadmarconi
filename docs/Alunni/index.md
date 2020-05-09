@@ -5,8 +5,7 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Nota:</strong> 
- Qui è possibile trovari tutorial e materiali da scaricare per attivare ed utilizzare la piattaforma come Alunno
+ <h1> Tutti i tutorial saranno caricati entro LUNEDI 11 Maggio 2020 </h1>
 </div>
 
 Naviga nelle varie sezioni seguendo i tutorial proposti e se hai particolari problemi puoi utilizzare la chat in basso a destra o contattatre il tuo docente che ti darà pieno supporto
