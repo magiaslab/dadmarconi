@@ -7,5 +7,5 @@ layout: page
 
 | Nome docente      | link prenotazione|
 | ----------- | ----------- |
-| Alessandro Cipriani      | https://calendly.com/a-cipriani-1      |
+| Alessandro Cipriani      | [Prenota](https://calendly.com/a-cipriani-1)      |
 | Insegnante Bravissimo   | [Prenota](https://calendly.com/insegnante) |
