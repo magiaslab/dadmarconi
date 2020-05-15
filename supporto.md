@@ -4,8 +4,8 @@ subtitle: Se hai particolari problemi tecnici puoi prenotare un appuntamento con
 img_path: images/5.jpg
 menus:
   main:
-    weight: 4
-    title: Inclusione
+    weight: 5
+    title: Supporto
 layout: page
 ---
 
