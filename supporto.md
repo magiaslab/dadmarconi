@@ -1,7 +1,11 @@
 ---
-title: Test Calendario
-subtitle: Come abbiamo considerato gli aseptti dell'inclusione nel progettare la DaD
+title: Richiesta supporto tecnico
+subtitle: Se hai particolari problemi tecnici puoi prenotare un appuntamento con il nostro tecnico
 img_path: images/5.jpg
+menus:
+  main:
+    weight: 4
+    title: Inclusione
 layout: page
 ---
 
