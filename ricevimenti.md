@@ -33,6 +33,9 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Merlo Roberto         | [Prenota](https://calendly.com/merlo-roberto )    |
 | Pomponi Mariastella   | [Prenota](https://calendly.com/pomponi-mariastella )    |
 | Ulivi Maria Stella   | [Prenota](https://calendly.com/ulivi-mariastella )    |
+| Trassinelli Marisa  | [Prenota](https://calendly.com/trassinelli-marisa )    |
+| Ciardini Cristina   | [Prenota](https://calendly.com/ciardini-cristina)    |
+| Gennari Benedetta   | [Prenota](https://calendly.com/gennari-benedetta )    |
 
 
 
