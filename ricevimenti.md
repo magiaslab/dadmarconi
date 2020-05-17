@@ -7,7 +7,7 @@ layout: page
 
 Per prenotare un colloquio con il docente cliccare su PRENOTA vicino al nome del docente interessato e scegliere il giorno e l'orario tra quelli disponibili.<br>
 
-![lista docenti](images/Schermata 2020-05-17 alle 14.37.41.png)
+![esempio ricevimenti1](/images/Schermata 2020-05-17 alle 14.37.41.png)
 
 Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome e la classe dell'alunno. <br>
 Per la conferma della prenotazione riceverete una mail all'indirizzo inserito, che contiene tutti i riferimenti ed il link a Meet da utilizzare per il colloquio con quel docente<br>
@@ -21,7 +21,7 @@ Matematica prenotata alle 14:50<br>
 <br>
 All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con il nome del docente, l'orario fissato ed il link diretto al Meet per parlare con il docente.<br>
 
-![lista docenti](images/Schermata 2020-05-17 alle 14.39.50.png)
+![esempio ricevimenti 2](/images/Schermata 2020-05-17 alle 14.39.50.png)
 
 
 **Il giorno fissato per i ricevimenti dovrete aprire una ad una le mail delle prenotazioni e collegarvi al Meet con il docente all'orario fissato. Il Meet funziona con qualsiasi email anche vostra privata non è obbligatorio utilizzare quella dell'alunno**
