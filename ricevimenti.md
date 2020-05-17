@@ -5,7 +5,7 @@ img_path: images/5.jpg
 layout: page
 ---
 
-Per prenotare un colloquio con il docente cliccare su PRENOTA vicino al nome del docente interessato e scegliere il giorno e l'orario tra quelli disponibili.<br>
+Per prenotare un colloquio con il docente cliccare su PRENOTA vicino al nome del docente interessato nella lista che trovi più in basso nella pagina e scegli il giorno e l'orario tra quelli disponibili.<br>
 
 ![esempio ricevimenti2](/images/Schermata 2020-05-17 alle 14.37.22.png)
 
