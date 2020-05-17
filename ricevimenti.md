@@ -7,10 +7,14 @@ layout: page
 
 Per prenotare un colloquio con il docente cliccare su PRENOTA vicino al nome del docente interessato e scegliere il giorno e l'orario tra quelli disponibili.<br>
 
-![esempio ricevimenti1](/images/Schermata 2020-05-17 alle 14.37.41.png)
+![esempio ricevimenti1](/images/Schermata 2020-05-17 alle 14.39.12.png)
 
 Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome e la classe dell'alunno. <br>
-Per la conferma della prenotazione riceverete una mail all'indirizzo inserito, che contiene tutti i riferimenti ed il link a Meet da utilizzare per il colloquio con quel docente<br>
+
+![esempio ricevimenti1](/images/Schermata 2020-05-17 alle 14.37.41.png)
+
+
+Come conferma della prenotazione riceverete una mail all'indirizzo che avete inserito, mail che contiene tutti i riferimenti ed il link a Meet da utilizzare per il colloquio con quel docente<br>
 
 Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione ricevendo la relativa conferma tramite mail, tenete conto quindi di prenotare i colloqui non tutti nello stesso orario ma scadenzati l'uno dall'altro in modo da potervi partecipare senza sovrapposizioni.<br>
 
