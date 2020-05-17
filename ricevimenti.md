@@ -17,7 +17,9 @@ Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione r
 Italiano prenotato alle 14:30<br>
 Matematica prenotata alle 14:50<br>
 <br>
-All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con il nome del docente, l'orario fissato ed il link diretto al Meet per parlare con il docente.
+All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con il nome del docente, l'orario fissato ed il link diretto al Meet per parlare con il docente.<br>
+
+**Il giorno fissato per i ricevimenti dovrete aprire una ad una le mail delle prenotazioni e collegarvi al Meet con il docente all'orario fissato. Il Meet funziona con qualsiasi email anche vostra privata non è obbligatorio utilizzare quella dell'alunno**
 <br>
 
 
