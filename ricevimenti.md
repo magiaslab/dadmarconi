@@ -62,6 +62,16 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Cassanmagnago Dario| [Prenota](https://calendly.com/cassanmagnago-dario)    |
 | Fiaschi Elisa| [Prenota](https://calendly.com/fiaschi-elisa)    |
 | Chimenti Daniela| [Prenota](https://calendly.com/chimenti-daniela)    |
+| Mattanini Livio| [Prenota](https://calendly.com/mattanini-livio)    |
+| Fulceri Iacopo| [Prenota](https://calendly.com/fulceri-iacopo)    |
+| Parenti Lorella| [Prenota](https://calendly.com/parenti-lorella)    |
+| Guidoni Simona| [Prenota](https://calendly.com/guidoni_simona)    |
+
+
+
+
+
+
 
 
 
