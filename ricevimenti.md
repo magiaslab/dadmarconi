@@ -40,6 +40,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Dell'Omodarme Adriana  	|  [Prenota](https://calendly.com/dellomodarme-adriana) 	|
 | Fedeli Angiolo         	|     [Prenota](https://calendly.com/fedeli-angiolo)    	|
 | Fiaschi Elisa          	|     [Prenota](https://calendly.com/fiaschi-elisa)     	|
+| Fiore Federica          	|     [Prenota](https://calendly.com/fiore-federica)     	|
 | Fiorenza Rafanelli     	|   [Prenota](https://calendly.com/rafanelli-fiorenza)  	|
 | Fossi Agnese           	|      [Prenota](https://calendly.com/fossi-agnese)     	|
 | Francesca Manenti      	|   [Prenota](https://calendly.com/manenti-francesca)   	|
