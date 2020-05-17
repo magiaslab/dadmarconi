@@ -16,7 +16,7 @@ Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome
 
 Come conferma della prenotazione riceverete una mail all'indirizzo che avete inserito, mail che contiene tutti i riferimenti ed il link a Meet da utilizzare per il colloquio con quel docente<br>
 
-Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione ricevendo la relativa conferma tramite mail, tenete conto quindi di prenotare i colloqui non tutti nello stesso orario ma scadenzati l'uno dall'altro in modo da potervi partecipare senza sovrapposizioni.<br>
+Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione diversa ricevendo la relativa conferma tramite mail, tenete conto quindi di prenotare i colloqui non tutti nello stesso orario ma scadenzati l'uno dall'altro in modo da potervi partecipare senza sovrapposizioni.<br>
 
 **Esempio:**<br>
 
@@ -54,6 +54,8 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Corallo Salvatore | [Prenota](https://calendly.com/corallo-salvatore)    |
 | Marroni Silvia | [Prenota](https://calendly.com/marroni-silvia)    |
 | Mai Daria| [Prenota](https://calendly.com/mai-daria)    |
+| Gabellieri Maria Paola| [Prenota](https://calendly.com/gabellieri-mariapaola)    |
+
 
 
 
