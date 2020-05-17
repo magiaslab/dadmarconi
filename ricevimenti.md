@@ -47,7 +47,6 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Trassinelli Marisa  | [Prenota](https://calendly.com/trassinelli-marisa )    |
 | Ciardini Cristina   | [Prenota](https://calendly.com/ciardini-cristina)    |
 | Gennari Benedetta   | [Prenota](https://calendly.com/gennari-benedetta )    |
-| Gennari Benedetta   | [Prenota](https://calendly.com/gennari-benedetta )    |
 | Princi Sibilla   | [Prenota](https://calendly.com/princi-sibilla )    |
 | Stecca Valeria   | [Prenota](https://calendly.com/stecca-valeria )    |
 | Ricci Luciano  | [Prenota](https://calendly.com/ricci-luciano)    |
