@@ -15,6 +15,7 @@ Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome
 |--------------------	|-----------------------------------------	|
 | Agnese Fossi       	| [Prenota](https://calendly.com/fossi-agnese)     	|
 | Angiolo Fedeli     	| [Prenota](https://calendly.com/fedeli-angiolo) 	|
+| Debora Maccanti    	| [Prenota](https://calendly.com/maccanti-debora) 	|
 | Fiorenza Rafanelli 	| [Prenota](https://calendly.com/rafanelli-fiorenza)|
 | Francesca Manenti  	| [Prenota](https://calendly.com/manenti-francesca) |
 | Bernardini Egizia     | [Prenota](https://calendly.com/bernardini-egizia) |
