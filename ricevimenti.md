@@ -53,6 +53,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Ricci Luciano  | [Prenota](https://calendly.com/ricci-luciano)    |
 | Corallo Salvatore | [Prenota](https://calendly.com/corallo-salvatore)    |
 | Marroni Silvia | [Prenota](https://calendly.com/marroni-silvia)    |
+| Mai Daria| [Prenota](https://calendly.com/mai-daria)    |
 
 
 
