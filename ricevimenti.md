@@ -12,12 +12,12 @@ Per la conferma della prenotazione riceverete una mail all'indirizzo inserito, c
 
 Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione ricevendo la relativa conferma tramite mail, tenete conto quindi di prenotare i colloqui non tutti nello stesso orario ma scadenzati l'uno dall'altro in modo da potervi partecipare senza sovrapposizioni.<br>
 
-Esempio:<br>
+**Esempio:**<br>
 
 Italiano prenotato alle 14:30<br>
 Matematica prenotata alle 14:50<br>
 <br>
-All'interno di ogni mail che ricevete avete il riepilogo dell'appuntamento con il nome del docente, l'orario fissato ed il link diretto al Meet per parlare con il docente.
+All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con il nome del docente, l'orario fissato ed il link diretto al Meet per parlare con il docente.
 <br>
 
 
