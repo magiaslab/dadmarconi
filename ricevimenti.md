@@ -10,11 +10,13 @@ Per prenotare un colloquio con il docente cliccare su PRENOTA vicino al nome del
 Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome e la classe dell'alunno. La conferma della prenotazione avviene con l'invio di una mail all'indirizzo inserito, che contiene il link a Meet da utilizzare per il colloquio con il docente<br>
 <br>
 
-| Nome docente       | Link per la prenotazione                           |
-|--------------------|----------------------------------------------------|
-| Agnese Fossi       | [Prenota](https://calendly.com/fossi-agnese)       |
-| Angiolo Fedeli     | [Prenota](https://calendly.com/fedeli-angiolo)     |
-| Fiorenza Rafanelli | [Prenota](https://calendly.com/rafanelli-fiorenza) |
-| Francesca Manenti  | [Prenota](https://calendly.com/manenti-francesca)  |
-| Bernardini Egizia  | [Prenota](https://calendly.com/bernardini-egizia)  |
+
+| Nome Docente       	| Link di prenotazione                    	|
+|--------------------	|-----------------------------------------	|
+| Agnese Fossi       	| [Prenota](https://calendly.com/fossi-agnese)     	|
+| Angiolo Fedeli     	| [Prenota](https://calendly.com/fedeli-angiolo) 	|
+| Fiorenza Rafanelli 	| [Prenota](https://calendly.com/rafanelli-fiorenza)|
+| Francesca Manenti  	| [Prenota](https://calendly.com/manenti-francesca) |
+| Bernardini Egizia     | [Prenota](https://calendly.com/bernardini-egizia) |
+
 <br>
