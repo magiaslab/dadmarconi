@@ -53,6 +53,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Marroni Silvia         	|     [Prenota](https://calendly.com/marroni-silvia)    	|
 | Mattanini Livio        	|    [Prenota](https://calendly.com/mattanini-livio)    	|
 | Merlo Roberto          	|     [Prenota](https://calendly.com/merlo-roberto)     	|
+| Naldi Tamara          	|     [Prenota](https://calendly.com/naldi-tamara)     	|
 | Nespoli Chiara         	|     [Prenota](https://calendly.com/nespoli-chiara)    	|
 | Parenti Lorella        	|    [Prenota](https://calendly.com/parenti-lorella)    	|
 | Particelli Elisa       	|    [Prenota](https://calendly.com/particelli-elisa)   	|
