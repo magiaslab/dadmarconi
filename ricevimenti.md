@@ -19,6 +19,7 @@ Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome
 | Fiorenza Rafanelli 	| [Prenota](https://calendly.com/rafanelli-fiorenza)|
 | Francesca Manenti  	| [Prenota](https://calendly.com/manenti-francesca) |
 | Bernardini Egizia     | [Prenota](https://calendly.com/bernardini-egizia) |
+| Sforzi Damiana        | [Prenota](https://calendly.com/sforzi-damiana)    |
 
 <br>
 
