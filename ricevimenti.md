@@ -13,7 +13,6 @@ Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome
 
 ![esempio ricevimenti1](/images/Schermata 2020-05-17 alle 14.37.41.png)
 
-
 Come conferma della prenotazione riceverete una mail all'indirizzo che avete inserito, mail che contiene tutti i riferimenti ed il link a Meet da utilizzare per il colloquio con quel docente<br>
 
 Per ogni docente e quindi per ogni materia dovrete effettuare una prenotazione diversa ricevendo la relativa conferma tramite mail, tenete conto quindi di prenotare i colloqui non tutti nello stesso orario ma scadenzati l'uno dall'altro in modo da potervi partecipare senza sovrapposizioni.<br>
@@ -27,70 +26,43 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 
 ![esempio ricevimenti 2](/images/Schermata 2020-05-17 alle 14.39.50.png)
 
-
 **Il giorno fissato per i ricevimenti dovrete aprire una ad una le mail delle prenotazioni e collegarvi al Meet con il docente all'orario fissato. Il Meet funziona con qualsiasi email anche vostra privata non è obbligatorio utilizzare quella dell'alunno**
 <br>
 
-
-| Nome Docente       	| Link di prenotazione                    	|
-|--------------------	|-----------------------------------------	|
-| Agnese Fossi       	| [Prenota](https://calendly.com/fossi-agnese)     	|
-| Angiolo Fedeli     	| [Prenota](https://calendly.com/fedeli-angiolo) 	|
-| Debora Maccanti    	| [Prenota](https://calendly.com/maccanti-debora) 	|
-| Fiorenza Rafanelli 	| [Prenota](https://calendly.com/rafanelli-fiorenza)|
-| Francesca Manenti  	| [Prenota](https://calendly.com/manenti-francesca) |
-| Bernardini Egizia     | [Prenota](https://calendly.com/bernardini-egizia) |
-| Sforzi Damiana        | [Prenota](https://calendly.com/sforzi-damiana)    |
-| Merlo Roberto         | [Prenota](https://calendly.com/merlo-roberto )    |
-| Pomponi Mariastella   | [Prenota](https://calendly.com/pomponi-mariastella )    |
-| Ulivi Maria Stella   | [Prenota](https://calendly.com/ulivi-mariastella )    |
-| Trassinelli Marisa  | [Prenota](https://calendly.com/trassinelli-marisa )    |
-| Ciardini Cristina   | [Prenota](https://calendly.com/ciardini-cristina)    |
-| Gennari Benedetta   | [Prenota](https://calendly.com/gennari-benedetta )    |
-| Princi Sibilla   | [Prenota](https://calendly.com/princi-sibilla )    |
-| Stecca Valeria   | [Prenota](https://calendly.com/stecca-valeria )    |
-| Ricci Luciano  | [Prenota](https://calendly.com/ricci-luciano)    |
-| Corallo Salvatore | [Prenota](https://calendly.com/corallo-salvatore)    |
-| Marroni Silvia | [Prenota](https://calendly.com/marroni-silvia)    |
-| Mai Daria| [Prenota](https://calendly.com/mai-daria)    |
-| Gabellieri Maria Paola| [Prenota](https://calendly.com/gabellieri-mariapaola)    |
-| Greco Lucia| [Prenota](https://calendly.com/greco-lucia)    |
-| Dell'Omodarme Adriana| [Prenota](https://calendly.com/dellomodarme-adriana)    |
-| Sommavilla Elena| [Prenota](https://calendly.com/sommavilla-elena)    |
-| Particelli Elisa| [Prenota](https://calendly.com/particelli-elisa)    |
-| Nespoli Chiara| [Prenota](https://calendly.com/nespoli-chiara)    |
-| Cassanmagnago Dario| [Prenota](https://calendly.com/cassanmagnago-dario)    |
-| Fiaschi Elisa| [Prenota](https://calendly.com/fiaschi-elisa)    |
-| Chimenti Daniela| [Prenota](https://calendly.com/chimenti-daniela)    |
-| Mattanini Livio| [Prenota](https://calendly.com/mattanini-livio)    |
-| Fulceri Iacopo| [Prenota](https://calendly.com/fulceri-iacopo)    |
-| Parenti Lorella| [Prenota](https://calendly.com/parenti-lorella)    |
-| Guidoni Simona| [Prenota](https://calendly.com/guidoni_simona)    |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|      Nome Docente      	|                  Link di prenotazione                 	|
+|:----------------------:	|:-----------------------------------------------------:	|
+| Agnese Fossi           	| [Prenota](https://calendly.com/fossi-agnese)          	|
+| Angiolo Fedeli         	| [Prenota](https://calendly.com/fedeli-angiolo)        	|
+| Bernardini Egizia      	| [Prenota](https://calendly.com/bernardini-egizia)     	|
+| Cassanmagnago Dario    	| [Prenota](https://calendly.com/cassanmagnago-dario)   	|
+| Chimenti Daniela       	| [Prenota](https://calendly.com/chimenti-daniela)      	|
+| Ciardini Cristina      	| [Prenota](https://calendly.com/ciardini-cristina)     	|
+| Corallo Salvatore      	| [Prenota](https://calendly.com/corallo-salvatore)     	|
+| Debora Maccanti        	| [Prenota](https://calendly.com/maccanti-debora)       	|
+| Dell'Omodarme Adriana  	| [Prenota](https://calendly.com/dellomodarme-adriana)  	|
+| Fiaschi Elisa          	| [Prenota](https://calendly.com/fiaschi-elisa)         	|
+| Fiorenza Rafanelli     	| [Prenota](https://calendly.com/rafanelli-fiorenza)    	|
+| Francesca Manenti      	| [Prenota](https://calendly.com/manenti-francesca)     	|
+| Fulceri Iacopo         	| [Prenota](https://calendly.com/fulceri-iacopo)        	|
+| Gabellieri Maria Paola 	| [Prenota](https://calendly.com/gabellieri-mariapaola) 	|
+| Gennari Benedetta      	| [Prenota](https://calendly.com/gennari-benedetta)     	|
+| Greco Lucia            	| [Prenota](https://calendly.com/greco-lucia)           	|
+| Guidoni Simona         	| [Prenota](https://calendly.com/guidoni_simona)        	|
+| Mai Daria              	| [Prenota](https://calendly.com/mai-daria)             	|
+| Marroni Silvia         	| [Prenota](https://calendly.com/marroni-silvia)        	|
+| Mattanini Livio        	| [Prenota](https://calendly.com/mattanini-livio)       	|
+| Merlo Roberto          	| [Prenota](https://calendly.com/merlo-roberto)         	|
+| Nespoli Chiara         	| [Prenota](https://calendly.com/nespoli-chiara)        	|
+| Parenti Lorella        	| [Prenota](https://calendly.com/parenti-lorella)       	|
+| Particelli Elisa       	| [Prenota](https://calendly.com/particelli-elisa)      	|
+| Pomponi Mariastella    	| [Prenota](https://calendly.com/pomponi-mariastella)   	|
+| Princi Sibilla         	| [Prenota](https://calendly.com/princi-sibilla)        	|
+| Ricci Luciano          	| [Prenota](https://calendly.com/ricci-luciano)         	|
+| Sforzi Damiana         	| [Prenota](https://calendly.com/sforzi-damiana)        	|
+| Sommavilla Elena       	| [Prenota](https://calendly.com/sommavilla-elena)      	|
+| Stecca Valeria         	| [Prenota](https://calendly.com/stecca-valeria)        	|
+| Trassinelli Marisa     	| [Prenota](https://calendly.com/trassinelli-marisa)    	|
+| Ulivi Maria Stella     	| [Prenota](https://calendly.com/ulivi-mariastella)     	|
 
 
 <br>
-
-
