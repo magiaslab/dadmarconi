@@ -54,6 +54,24 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Marroni Silvia | [Prenota](https://calendly.com/marroni-silvia)    |
 | Mai Daria| [Prenota](https://calendly.com/mai-daria)    |
 | Gabellieri Maria Paola| [Prenota](https://calendly.com/gabellieri-mariapaola)    |
+| Greco Lucia| [Prenota](https://calendly.com/greco-lucia)    |
+| Dell'Omodarme Adriana| [Prenota](https://calendly.com/dellomodarme-adriana)    |
+| Sommavilla Elena| [Prenota](https://calendly.com/sommavilla-elena)    |
+| Particelli Elisa| [Prenota](https://calendly.com/particelli-elisa)    |
+| Nespoli Chiara| [Prenota](https://calendly.com/nespoli-chiara)    |
+| Cassanmagnago Dario| [Prenota](https://calendly.com/cassanmagnago-dario)    |
+| Fiaschi Elisa| [Prenota](https://calendly.com/fiaschi-elisa)    |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
