@@ -20,6 +20,10 @@ Per la prenotazione si deve inserire il proprio nome, un indirizzo mail, il nome
 | Francesca Manenti  	| [Prenota](https://calendly.com/manenti-francesca) |
 | Bernardini Egizia     | [Prenota](https://calendly.com/bernardini-egizia) |
 | Sforzi Damiana        | [Prenota](https://calendly.com/sforzi-damiana)    |
+| Merlo Roberto         | [Prenota](https://calendly.com/merlo-roberto )    |
+
+
+
 
 <br>
 
