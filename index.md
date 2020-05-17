@@ -37,14 +37,13 @@ sections:
   - section_id: text-img
     component: content_block.html
     type: contentblock
-    image: images/youtube.svg
-    title: Rivedi la diretta su YouTube per alunni e genitori
+    image: images/online_lesson__monochromatic.png
+    title: Prenotazione colloqui Docenti Genitori
     content: >-
-      Giovedi 7 Maggio 2020 ore 17:00 presenteremo la piattaforma didattica ad alunni e genitori e daremo le prime indicazioni per l'attivazione e l'accesso
-      I link per seguire la diretta sotto 
+      Mercoledi 21 e Giovedi 22 Maggio si terranno i colloqui tra docenti e genitori, da qui è possibile prenotarsi per effettuare il colloquio tramite Meet
     actions: 
-    - label: Guardala direttamente da qui
-      url: /diretta.html
+    - label: Vai alle prenotazioni
+      url: /ricevimenti.html
   - section_id: text-img
     component: content_block.html
     type: contentblock
