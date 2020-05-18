@@ -88,6 +88,8 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Stecca Valeria         	|     [Prenota](https://calendly.com/stecca-valeria)    	|
 | Trassinelli Marisa     	|   [Prenota](https://calendly.com/trassinelli-marisa)  	|
 | Ulivi Maria Stella     	|   [Prenota](https://calendly.com/ulivi-mariastella)   	|
+| Zannerini Marina       	|   [Prenota](https://calendly.com/zannerini-marina)    	|
+
 
 
 <br>
