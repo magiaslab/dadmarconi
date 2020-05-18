@@ -32,18 +32,21 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 |      Nome Docente      	|                  Link di prenotazione                 	|
 |:----------------------:	|:-----------------------------------------------------:	|
 | Barsotti Alessio      	|   [Prenota](https://calendly.com/barsotti-alessio)    	|
+| Bensi Manuela           	|   [Prenota](https://calendly.com/bensi-manuela)         	|
 | Benucci Beatrice      	|   [Prenota](https://calendly.com/benucci-beatrice)     	|
 | Bernardini Egizia      	|   [Prenota](https://calendly.com/bernardini-egizia)   	|
 | Bernazzi Cristina     	|   [Prenota](https://calendly.com/bernazzi-cristina)   	|
+| Bertaccini Sara        	|   [Prenota](https://calendly.com/bertaccini-sara)      	|
 | Bertozzi Elisabetta      	|   [Prenota](https://calendly.com/bertozzi-elisabetta)   	|
 | Bisbocci Fabio          	|   [Prenota](https://calendly.com/bisbocci-fabio)      	|
 | Bisori Catia          	|   [Prenota](https://calendly.com/bisori-catia)           	|
 | Bonavolta Elisa         	|   [Prenota](https://calendly.com/bonavolta-elisa)      	|
+| Caporusso Michele        	|   [Prenota](https://calendly.com/caporusso-michele)      	|
 | Cassanmagnago Dario    	|  [Prenota](https://calendly.com/cassanmagnago-dario)  	|
 | Chimenti Daniela       	|    [Prenota](https://calendly.com/chimenti-daniela)   	|
 | Ciardini Cristina      	|   [Prenota](https://calendly.com/ciardini-cristina)   	|
 | Corallo Salvatore      	|   [Prenota](https://calendly.com/corallo-salvatore)   	|
-| Debora Maccanti        	|    [Prenota](https://calendly.com/maccanti-debora)    	|
+| Del Giorno Laura        	|    [Prenota](https://calendly.com/delgiorno-laura)    	|
 | Dell'Omodarme Adriana  	|  [Prenota](https://calendly.com/dellomodarme-adriana) 	|
 | Fedeli Angiolo         	|     [Prenota](https://calendly.com/fedeli-angiolo)    	|
 | Fiaschi Elisa          	|     [Prenota](https://calendly.com/fiaschi-elisa)     	|
@@ -55,9 +58,11 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Gabellieri Maria Paola 	| [Prenota](https://calendly.com/gabellieri-mariapaola) 	|
 | Gennari Benedetta      	|   [Prenota](https://calendly.com/gennari-benedetta)   	|
 | Greco Lucia            	|      [Prenota](https://calendly.com/greco-lucia)      	|
+| Guarnaccia Ilaria        	|     [Prenota](https://calendly.com/guarnaccia-ilaria)    	|
 | Guidoni Simona         	|     [Prenota](https://calendly.com/guidoni_simona)    	|
 | Irrera Francesco         	|     [Prenota](https://calendly.com/francesco-irrera)    	|
 | Ivaldi Marina         	|     [Prenota](https://calendly.com/ivaldi-marina)      	|
+| Maccanti Debora        	|    [Prenota](https://calendly.com/maccanti-debora)    	|
 | Manenti Francesca      	|   [Prenota](https://calendly.com/manenti-francesca)   	|
 | Mai Daria              	|       [Prenota](https://calendly.com/mai-daria)       	|
 | Manciocco Francesco      	|       [Prenota](https://calendly.com/manciocco-francesco)	|
@@ -66,12 +71,15 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Merlo Roberto          	|     [Prenota](https://calendly.com/merlo-roberto)     	|
 | Monaci Emanuele         	|     [Prenota](https://calendly.com/monaci-emanuele)     	|
 | Naldi Tamara          	|     [Prenota](https://calendly.com/naldi-tamara)      	|
+| Nencioni Mirko           	|     [Prenota](https://calendly.com/nencioni-mirko)      	|
 | Nespoli Chiara         	|     [Prenota](https://calendly.com/nespoli-chiara)    	|
+| Nocerino Yuri Domenico   	|     [Prenota](https://calendly.com/nocerino-yuridomenico)	|
 | Panieri Elisa         	|     [Prenota](https://calendly.com/panieri-elisa)      	|
 | Parenti Lorella        	|    [Prenota](https://calendly.com/parenti-lorella)    	|
 | Particelli Elisa       	|    [Prenota](https://calendly.com/particelli-elisa)   	|
 | Pistolesi Francesca    	|  [Prenota](https://calendly.com/pistolesi-francesca)  	|
 | Pomponi Mariastella    	|  [Prenota](https://calendly.com/pomponi-mariastella)  	|
+| Poggetti Graziano     	|  [Prenota](https://calendly.com/poggetti-graziano)      	|
 | Princi Sibilla         	|     [Prenota](https://calendly.com/princi-sibilla)    	|
 | Ricci Luciano          	|     [Prenota](https://calendly.com/ricci-luciano)     	|
 | Russo Gaia             	|       [Prenota](https://calendly.com/russo-gaia)      	|
