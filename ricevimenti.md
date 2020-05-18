@@ -49,6 +49,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Gennari Benedetta      	|   [Prenota](https://calendly.com/gennari-benedetta)   	|
 | Greco Lucia            	|      [Prenota](https://calendly.com/greco-lucia)      	|
 | Guidoni Simona         	|     [Prenota](https://calendly.com/guidoni_simona)    	|
+| Irrera Francesco         	|     [Prenota](https://calendly.com/francesco-irrera)    	|
 | Mai Daria              	|       [Prenota](https://calendly.com/mai-daria)       	|
 | Marroni Silvia         	|     [Prenota](https://calendly.com/marroni-silvia)    	|
 | Mattanini Livio        	|    [Prenota](https://calendly.com/mattanini-livio)    	|
