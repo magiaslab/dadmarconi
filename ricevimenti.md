@@ -31,8 +31,14 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 
 |      Nome Docente      	|                  Link di prenotazione                 	|
 |:----------------------:	|:-----------------------------------------------------:	|
-| Benucci Beatrice      	|   [Prenota](https://calendly.com/benucci-beatrice)   	|
+| Barsotti Alessio      	|   [Prenota](https://calendly.com/barsotti-alessio)    	|
+| Benucci Beatrice      	|   [Prenota](https://calendly.com/benucci-beatrice)     	|
 | Bernardini Egizia      	|   [Prenota](https://calendly.com/bernardini-egizia)   	|
+| Bernazzi Cristina     	|   [Prenota](https://calendly.com/bernazzi-cristina)   	|
+| Bertozzi Elisabetta      	|   [Prenota](https://calendly.com/bertozzi-elisabetta)   	|
+| Bisbocci Fabio          	|   [Prenota](https://calendly.com/bisbocci-fabio)      	|
+| Bisori Catia          	|   [Prenota](https://calendly.com/bisori-catia)           	|
+| Bonavolta Elisa         	|   [Prenota](https://calendly.com/bonavolta-elisa)      	|
 | Cassanmagnago Dario    	|  [Prenota](https://calendly.com/cassanmagnago-dario)  	|
 | Chimenti Daniela       	|    [Prenota](https://calendly.com/chimenti-daniela)   	|
 | Ciardini Cristina      	|   [Prenota](https://calendly.com/ciardini-cristina)   	|
@@ -44,21 +50,27 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Fiore Federica          	|     [Prenota](https://calendly.com/fiore-federica)     	|
 | Fiorenza Rafanelli     	|   [Prenota](https://calendly.com/rafanelli-fiorenza)  	|
 | Fossi Agnese           	|      [Prenota](https://calendly.com/fossi-agnese)     	|
-| Francesca Manenti      	|   [Prenota](https://calendly.com/manenti-francesca)   	|
+| Francesconi Chiara       	|      [Prenota](https://calendly.com/francesconi-chiara)  	|
 | Fulceri Iacopo         	|     [Prenota](https://calendly.com/fulceri-iacopo)    	|
 | Gabellieri Maria Paola 	| [Prenota](https://calendly.com/gabellieri-mariapaola) 	|
 | Gennari Benedetta      	|   [Prenota](https://calendly.com/gennari-benedetta)   	|
 | Greco Lucia            	|      [Prenota](https://calendly.com/greco-lucia)      	|
 | Guidoni Simona         	|     [Prenota](https://calendly.com/guidoni_simona)    	|
 | Irrera Francesco         	|     [Prenota](https://calendly.com/francesco-irrera)    	|
+| Ivaldi Marina         	|     [Prenota](https://calendly.com/ivaldi-marina)      	|
+| Manenti Francesca      	|   [Prenota](https://calendly.com/manenti-francesca)   	|
 | Mai Daria              	|       [Prenota](https://calendly.com/mai-daria)       	|
+| Manciocco Francesco      	|       [Prenota](https://calendly.com/manciocco-francesco)	|
 | Marroni Silvia         	|     [Prenota](https://calendly.com/marroni-silvia)    	|
 | Mattanini Livio        	|    [Prenota](https://calendly.com/mattanini-livio)    	|
 | Merlo Roberto          	|     [Prenota](https://calendly.com/merlo-roberto)     	|
-| Naldi Tamara          	|     [Prenota](https://calendly.com/naldi-tamara)     	|
+| Monaci Emanuele         	|     [Prenota](https://calendly.com/monaci-emanuele)     	|
+| Naldi Tamara          	|     [Prenota](https://calendly.com/naldi-tamara)      	|
 | Nespoli Chiara         	|     [Prenota](https://calendly.com/nespoli-chiara)    	|
+| Panieri Elisa         	|     [Prenota](https://calendly.com/panieri-elisa)      	|
 | Parenti Lorella        	|    [Prenota](https://calendly.com/parenti-lorella)    	|
 | Particelli Elisa       	|    [Prenota](https://calendly.com/particelli-elisa)   	|
+| Pistolesi Francesca    	|  [Prenota](https://calendly.com/pistolesi-francesca)  	|
 | Pomponi Mariastella    	|  [Prenota](https://calendly.com/pomponi-mariastella)  	|
 | Princi Sibilla         	|     [Prenota](https://calendly.com/princi-sibilla)    	|
 | Ricci Luciano          	|     [Prenota](https://calendly.com/ricci-luciano)     	|
