@@ -31,6 +31,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 
 |      Nome Docente      	|                  Link di prenotazione                 	|
 |:----------------------:	|:-----------------------------------------------------:	|
+| Benucci Beatrice      	|   [Prenota](https://calendly.com/benucci-beatrice)   	|
 | Bernardini Egizia      	|   [Prenota](https://calendly.com/bernardini-egizia)   	|
 | Cassanmagnago Dario    	|  [Prenota](https://calendly.com/cassanmagnago-dario)  	|
 | Chimenti Daniela       	|    [Prenota](https://calendly.com/chimenti-daniela)   	|

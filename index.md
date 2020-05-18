@@ -40,7 +40,7 @@ sections:
     image: images/online_lesson__monochromatic.png
     title: Prenotazione colloqui Docenti Genitori
     content: >-
-      Mercoledi 21 e Giovedi 22 Maggio si terranno i colloqui tra docenti e genitori, da qui è possibile prenotarsi per effettuare il colloquio tramite Meet
+      Giovedi 21 e Venerdi 22 Maggio si terranno i colloqui tra docenti e genitori, da qui è possibile prenotarsi per effettuare il colloquio tramite Meet
     actions: 
     - label: Vai alle prenotazioni
       url: /ricevimenti.html
