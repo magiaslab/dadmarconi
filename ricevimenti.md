@@ -29,6 +29,10 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 **Il giorno fissato per i ricevimenti dovrete aprire una ad una le mail delle prenotazioni e collegarvi al Meet con il docente all'orario fissato. Il Meet funziona con qualsiasi email anche vostra privata non è obbligatorio utilizzare quella dell'alunno**
 <br>
 
+<div class="note">
+  <strong>Attenzione:</strong> Per un problema tecnico erano state erroneamente inserite meno disponibilità come appuntamenti per i docenti, sono stati tutti ricontrollati e risolti. Verificate se i docenti per cui non c'era disponibilità hanno adesso appuntamenti liberi. Ci scusiamo per l'inconveniente.
+</div>
+
 |      Nome Docente      	|                  Link di prenotazione                 	|
 |:----------------------:	|:-----------------------------------------------------:	|
 | Barsotti Alessio      	|   [Prenota](https://calendly.com/barsotti-alessio)    	|
@@ -60,7 +64,7 @@ All'interno di ogni mail che riceverete avete il riepilogo dell'appuntamento con
 | Greco Lucia            	|      [Prenota](https://calendly.com/greco-lucia)      	|
 | Guarnaccia Ilaria        	|     [Prenota](https://calendly.com/guarnaccia-ilaria)    	|
 | Guidoni Simona         	|     [Prenota](https://calendly.com/guidoni_simona)    	|
-| Irrera Francesco         	|     [Prenota](https://calendly.com/francesco-irrera)    	|
+| Irrera Francesco         	|     [Prenota](https://calendly.com/irrera-francesco)    	|
 | Ivaldi Marina         	|     [Prenota](https://calendly.com/ivaldi-marina)      	|
 | Maccanti Debora        	|    [Prenota](https://calendly.com/maccanti-debora)    	|
 | Manenti Francesca      	|   [Prenota](https://calendly.com/manenti-francesca)   	|
