@@ -31,21 +31,21 @@ Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in par
 
 - Il sito di Google Meet ha tutte le autorizzazioni? per questo accertatevi che in "Impostazioni sito": chrome://settings/content
   alla voce "Videocamera": chrome://settings/content/camera la relativa voce "Chiedi prima di accedere (opzione consigliata)" sia abilitata
-  inoltre all'accesso del sito: [meet](https://meet.google.com/) selezionate l'icona in alto a sinistra della omnibox e alla voce "Videocamera" verificate che sia impostata su "Consenti" per ulteriori informazioni date un'occhiata qui https://support.google.com/chrome/answer/114662?hl=it
+  inoltre all'accesso del sito: [meet](https://meet.google.com/) selezionate l'icona in alto a sinistra della omnibox e alla voce "Videocamera" verificate che sia impostata su "Consenti" per ulteriori informazioni date un'occhiata qui [Supporto](https://support.google.com/chrome/answer/114662?hl=it)
 
 - Verificate che le autorizzazioni legate a Chrome e al sito in questione sul vostro antivirus,
   siano correttamente impostate.
 
-- Provate a disinstallare e a reinstallare il browser dalla pagina ufficiale: https://www.google.com/intl/it_it/chrome/
+- Provate a disinstallare e a reinstallare il browser dalla pagina ufficiale: (https://www.google.com/intl/it_it/chrome/)
   (prima di disinstallare il browser, effettuate la sincronizzazione dei dati
   onde evitare di perdere dati importanti: chrome://settings/syncSetup
-  Per questo date un'occhiata qui https://support.google.com/chrome/answer/165139)
+  Per questo date un'occhiata qui (https://support.google.com/chrome/answer/165139)
 
 - Nel caso abbiate in uso una versione precedente del sistema operativo,
   aggiornatela all'ultima versione disponibile.
 
 Inoltre ci servirebbe sapere se questo problema si verifica anche su altri vostri dispositivi,
-anche su Android accedendo però tramite browser Chrome a https://meet.google.com/
+anche su Android accedendo però tramite browser Chrome a (https://meet.google.com/)
 
 Se dopo aver seguito queste indicazioni il problema dovesse persistere, fateci sapere indicando:
 Su quale dispositivo e sistema operativo si verifica il problema
