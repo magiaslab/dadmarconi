@@ -48,9 +48,9 @@ Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in par
 Inoltre ci servirebbe sapere se questo problema si verifica anche su altri vostri dispositivi,
 anche su Android accedendo però tramite browser Chrome a [meet](https://meet.google.com/)
 
-Se dopo aver seguito queste indicazioni il problema dovesse persistere, fateci sapere indicando:
-Su quale dispositivo e sistema operativo si verifica il problema
-La versione di Chrome in uso
-Ulteriori informazioni in merito, fornendo nel caso messaggi di errore.
+Se dopo aver seguito queste indicazioni il problema dovesse persistere, fateci sapere indicando:<br>
+- Su quale dispositivo e sistema operativo si verifica il problema
+- La versione di Chrome in uso
+- Ulteriori informazioni in merito, fornendo nel caso messaggi di errore.
 
 Grazie mille per la vostra disponibilità :)
