@@ -26,6 +26,8 @@ Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in par
 
 </div>
 
+<strong>[GUIDA DI GOOGLE MEET](https://support.google.com/meet/answer/7380413?hl=it)</strong>
+
 - La versione di Chrome in uso è aggiornata?<br>
   Nel caso non lo fosse verificate andando alla pagina chrome://settings/help
   o selezionate l'icona in alto a destra "Guida" - "Informazioni su Google Chrome"
