@@ -13,16 +13,42 @@ Qui è possibile trovare le guide per l'attivazione e l'utilizzo della piattafor
 
 ***
 <div class="important">
-  <strong>Nota:</strong> 
-  Alcune sezioni sono provvisorie in quanto sono in preparazionei tutorial e i contenuti personalizzati per il nostro istituto, saranno disponibili in tempo utile per l'attivazione della piattaforma
+  <strong>Problemi connessione con Google MEET:</strong> 
+  Alcune operazioni da effettuare in caso di problemi di connessione con Google Meet
 
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_RkWAMt.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+![meet](/images/hangouts.png)<br>
 
+Non abbiamo possibilità di intervenire sulla qualità di connessione attraverso Google Meet perchè la stessa dipende in larga parte da fattori esterni quali la velocità della connessione che utilizzate per connettervi e dalle configurazioni di ogni pc o device che sono per tutti diverse.<br>
+
+Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in parte eventuali problemi con webcam e microfoni
 </div>
 
-Le guide ed i tutorial sono disponibili per alunne e alunni, docenti e personale scolastico e sono strutturati in modo da fornire chiare indicazioni per utilizzare appieno ed in maniera semplice tutte le app comprese nella piattaforma da ogni device.
+- La versione di Chrome in uso è aggiornata?
+Nel caso non lo fosse verificate andando alla pagina chrome://settings/help
+o selezionate l'icona in alto a destra "Guida" - "Informazioni su Google Chrome"
 
-I tutorial infatti spiegano come configurare, accedere e utilizzare la piattaforma da ogni tipo di smartphone, tablet o pc. Le varie sezioni sono suddivise per tipologia di utente in modo che ognuno possa facilmente trovare le guide a lui dedicate.
+- Il sito di Google Meet ha tutte le autorizzazioni? per questo accertatevi che in "Impostazioni sito": chrome://settings/content
+alla voce "Videocamera": chrome://settings/content/camera la relativa voce "Chiedi prima di accedere (opzione consigliata)" sia abilitata
+inoltre all'accesso del sito: https://meet.google.com/ selezionate l'icona in alto a sinistra della omnibox e alla voce "Videocamera" verificate che sia impostata su "Consenti" per ulteriori informazioni date un'occhiata qui
 
-Per casi particolari e problemi tecnici è possibile usufruire della chat di assistenza posta in basso a destra di tutte le pagine del sito.
+-  Verificate che le autorizzazioni legate a Chrome e al sito in questione sul vostro antivirus,
+siano correttamente impostate.
+
+- Provate a disinstallare e a reinstallare il browser dalla pagina ufficiale: https://www.google.com/intl/it_it/chrome/ 
+(prima di disinstallare il browser, effettuate la sincronizzazione dei dati 
+onde evitare di perdere dati importanti: chrome://settings/syncSetup
+Per questo date un'occhiata qui)
+
+- Nel caso abbiate in uso una versione precedente del sistema operativo,
+aggiornatela all'ultima versione disponibile.
+
+Inoltre ci servirebbe sapere se questo problema si verifica anche su altri vostri dispositivi,
+anche su Android accedendo però tramite browser Chrome a https://meet.google.com/
+
+
+Se dopo aver seguito queste indicazioni il problema dovesse persistere, fateci sapere indicando:
+Su quale dispositivo e sistema operativo si verifica il problema
+La versione di Chrome in uso
+Ulteriori informazioni in merito, fornendo nel caso messaggi di errore.
+
+Grazie mille per la vostra disponibilità :)
