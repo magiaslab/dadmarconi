@@ -26,7 +26,7 @@ Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in par
 
 </div>
 
-- La versione di Chrome in uso è aggiornata?
+- La versione di Chrome in uso è aggiornata?<br>
   Nel caso non lo fosse verificate andando alla pagina chrome://settings/help
   o selezionate l'icona in alto a destra "Guida" - "Informazioni su Google Chrome"
 
@@ -44,6 +44,10 @@ Qui sotto trovate alcune operazioni da fare o da verificare per risolvere in par
 
 - Nel caso abbiate in uso una versione precedente del sistema operativo,
   aggiornatela all'ultima versione disponibile.
+
+- Windows 8.1 risente particolarmente di questo problema si consiglia di eseguire l'aggiornamento a win10 dove possibile<br>
+
+- <strong>In caso di problemi di connessione e quindi di difficoltà nel vedere e nel sentire, si consiglia di collegare il pc direttamente via cavo al router e di non utilizzare il WiFi o se ciò non fosse possibile di avvicinarsi il più possibile ad esso in modo che il segnale sia più forte. In caso di connessioni mobili provate a cambiare stanza o comunque di trovare una posizione dove vi sia un segnale adeguato</strong>
 
 Inoltre ci servirebbe sapere se questo problema si verifica anche su altri vostri dispositivi,
 anche su Android accedendo però tramite browser Chrome a [meet](https://meet.google.com/)
