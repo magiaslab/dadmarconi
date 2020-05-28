@@ -47,6 +47,16 @@ sections:
   - section_id: text-img
     component: content_block.html
     type: contentblock
+    image: images/phone_maintenance_monochromatic.png
+    title: Risolvere connessioni Meet
+    content: >-
+      Alcuni consigli su come risolvere i problemi di connessione ed utilizzo di Meet
+    actions: 
+    - label: Vedi i consigli
+      url: /docs/index.html
+  - section_id: text-img
+    component: content_block.html
+    type: contentblock
     image: images/g-suite-education.svg
     title: Abbiamo scelto il meglio
     content: >-
