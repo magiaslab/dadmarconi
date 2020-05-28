@@ -17,7 +17,7 @@ Qui è possibile trovare le guide per l'attivazione e l'utilizzo della piattafor
   <strong>Problemi connessione con Google MEET:</strong> <br>
   Alcune operazioni da effettuare in caso di problemi di connessione con Google Meet<br>
 
-![meet](/images/hangouts.png)<br>
+![meet](/images/hangouts.png)
 
 Non abbiamo possibilità di intervenire sulla qualità di connessione attraverso Google Meet perchè la stessa dipende in larga parte da fattori esterni quali la velocità della connessione che utilizzate per connettervi e dalle configurazioni di ogni pc o device che sono per tutti diverse.<br>
 
